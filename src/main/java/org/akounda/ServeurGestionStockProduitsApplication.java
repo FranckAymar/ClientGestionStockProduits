@@ -1,4 +1,4 @@
-package org.sid;
+package org.akounda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
